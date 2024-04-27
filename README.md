@@ -17,7 +17,7 @@ Python ToDo List is a command-line application that allows users to manage their
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Roshankumaraka9hunnidbands/python-todo-list.git
+   git clone https://github.com/Roshanaka9hunnidbands/python-todo-list.git
    ```
 
 2. Navigate to the project directory:
